@@ -1,0 +1,465 @@
+.-ctempature-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .-ctempature--ctempature {
+    width: 100%;
+    height: 844px;
+    display: flex;
+    overflow: hidden;
+    box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background-size: cover;
+    background-image: url("/playground_assets/bf2abfec-a942-4e7a-a56e-e606b1dbc392-7lvwzm-1500w.undefined");
+  }
+  .-ctempature-image1 {
+    top: -367px;
+    left: 0px;
+    width: 673px;
+    height: 1481px;
+    position: absolute;
+  }
+  .-ctempature-charged-battery {
+    top: 20px;
+    left: 350px;
+    width: 23px;
+    height: 23px;
+    position: absolute;
+  }
+  .-ctempature-wi-fi {
+    top: 20px;
+    left: 325px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .-ctempature-signal {
+    top: 20px;
+    left: 300px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .-ctempature-text {
+    top: 23px;
+    left: 20px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-vectorbutton {
+    top: 60px;
+    left: 348px;
+    width: 25px;
+    height: 40px;
+    position: absolute;
+  }
+  .-ctempature-text02 {
+    top: 76px;
+    left: 108px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    font-style: Demibold;
+    text-align: left;
+    font-family: Lucida Fax;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-air-conditioner {
+    top: 159px;
+    left: 160px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+  }
+  .-ctempature-line9button {
+    top: 604px;
+    left: 93px;
+    width: 247px;
+    height: 0px;
+    position: absolute;
+  }
+  .-ctempature-line10 {
+    top: 607px;
+    left: 88px;
+    width: 90px;
+    height: 0px;
+    position: absolute;
+  }
+  .-ctempature-group50button {
+    top: 288px;
+    left: 129px;
+    width: 215.9702911376953px;
+    height: 171.08653259277344px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-group15 {
+    top: 5.556060791015625px;
+    left: 0px;
+    width: 215.9702911376953px;
+    height: 165.5304718017578px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-group13 {
+    top: 0px;
+    left: 0px;
+    width: 215.9702911376953px;
+    height: 165.5304718017578px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-subtract {
+    top: 0px;
+    left: 0px;
+    width: 149px;
+    height: 149px;
+    position: absolute;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.9399999976158142) ;
+    box-sizing: content-box;
+  }
+  .-ctempature-vector4 {
+    top: 29.58607292175293px;
+    left: 118.70218658447266px;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+  }
+  .-ctempature-vector {
+    top: 149.2105712890625px;
+    left: 199.650390625px;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+  }
+  .-ctempature-group3 {
+    top: 47.794010162353516px;
+    left: 48.1826171875px;
+    width: 57px;
+    height: 53px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-group6 {
+    top: 0px;
+    left: 0px;
+    width: 57px;
+    height: 53px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-text04 {
+    color: rgba(190, 190, 190, 1);
+    height: auto;
+    position: absolute;
+    font-size: 37px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Istok Web;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-vector5 {
+    top: 0px;
+    left: 102.281494140625px;
+    width: 58px;
+    height: 66px;
+    position: absolute;
+  }
+  .-ctempature-group66 {
+    top: 643px;
+    left: 24px;
+    width: 338px;
+    height: 123.04911804199219px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-rectangle5button {
+    top: 0px;
+    left: 0px;
+    width: 100px;
+    height: 123px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .-ctempature-group21 {
+    top: 76.66464233398438px;
+    left: 21.5px;
+    width: 57px;
+    height: 32.27672576904297px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-text06 {
+    top: 20.276723861694336px;
+    left: 21px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-text08 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-vector1 {
+    top: 28.30759048461914px;
+    left: 41.7286376953125px;
+    width: 17px;
+    height: 24px;
+    position: absolute;
+    box-shadow: 0px 0px 8px 0px rgba(184, 180, 69, 0.4399999976158142) ;
+  }
+  .-ctempature-rectangle5button1 {
+    top: 0px;
+    left: 238px;
+    width: 100px;
+    height: 123px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .-ctempature-group211 {
+    top: 76.66464233398438px;
+    left: 258.00341796875px;
+    width: 60px;
+    height: 31.27672576904297px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-text10 {
+    top: 19.27672576904297px;
+    left: 3px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-text12 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-group36 {
+    top: 30.352359771728516px;
+    left: 283.1541748046875px;
+    width: 9.698385238647461px;
+    height: 21.55261993408203px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-vector1 {
+    top: 0px;
+    left: 0px;
+    width: 2px;
+    height: 22px;
+    position: absolute;
+  }
+  .-ctempature-vector2 {
+    top: -0.000007119836936908541px;
+    left: 3.736499786376953px;
+    width: 2px;
+    height: 22px;
+    position: absolute;
+  }
+  .-ctempature-vector3 {
+    top: -0.000007119836936908541px;
+    left: 7.473104000091553px;
+    width: 2px;
+    height: 22px;
+    position: absolute;
+  }
+  .-ctempature-rectangle5button2 {
+    top: 0px;
+    left: 119px;
+    width: 100px;
+    height: 123px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .-ctempature-group212 {
+    top: 76.66464233398438px;
+    left: 132.501708984375px;
+    width: 73px;
+    height: 31.27672576904297px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .-ctempature-text14 {
+    top: 19.2767333984375px;
+    left: 20.5px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-text16 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .-ctempature-vector2 {
+    top: 28.30759048461914px;
+    left: 158.797607421875px;
+    width: 20px;
+    height: 24px;
+    position: absolute;
+  }
+  .-ctempature-rectangle6 {
+    top: 786px;
+    left: -8px;
+    width: 428px;
+    height: 69px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .-ctempature-rectangle61 {
+    top: 0px;
+    left: 0px;
+    width: 428px;
+    height: 69px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .-ctempature-account {
+    top: 29px;
+    left: 361px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .-ctempature-vectorbutton1 {
+    top: 18px;
+    left: 355px;
+    width: 28px;
+    height: 28px;
+    position: absolute;
+  }
+  .-ctempature-notifications {
+    top: 13px;
+    left: 276px;
+    width: 39px;
+    height: 39px;
+    position: absolute;
+  }
+  .-ctempature-homebutton {
+    top: 15px;
+    left: 43px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .-ctempature-apps {
+    top: 16px;
+    left: 113px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .-ctempature-ellipse9button {
+    top: 773px;
+    left: 160px;
+    width: 65px;
+    height: 65px;
+    position: absolute;
+  }
+  .-ctempature-plus-math {
+    top: 787px;
+    left: 173px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  

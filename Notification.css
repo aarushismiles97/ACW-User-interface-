@@ -1,0 +1,454 @@
+.notification-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .notification-notification {
+    width: 100%;
+    height: 926px;
+    display: flex;
+    overflow: hidden;
+    box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background-size: cover;
+    background-image: url("/playground_assets/c29bd64f-9262-42fd-9f0c-9bcd4c9d6989-24io-1500w.undefined");
+  }
+  .notification-image1 {
+    top: -367px;
+    left: 0px;
+    width: 673px;
+    height: 1481px;
+    position: absolute;
+  }
+  .notification-charged-battery {
+    top: 20px;
+    left: 378px;
+    width: 23px;
+    height: 23px;
+    position: absolute;
+  }
+  .notification-wi-fi {
+    top: 20px;
+    left: 353px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .notification-signal {
+    top: 20px;
+    left: 328px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .notification-text {
+    top: 11px;
+    left: 17px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-vector {
+    top: 57px;
+    left: 363px;
+    width: 25px;
+    height: 40px;
+    position: absolute;
+  }
+  .notification-text02 {
+    top: 84px;
+    left: 135px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 28px;
+    font-style: Demibold;
+    text-align: left;
+    font-family: Lucida Fax;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-rectangle17button {
+    top: 193px;
+    left: 24px;
+    width: 381px;
+    height: 80px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .notification-text04 {
+    top: 222px;
+    left: 87px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-rectangle18button {
+    top: 321px;
+    left: 24px;
+    width: 381px;
+    height: 80px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .notification-rectangle19button {
+    top: 449px;
+    left: 24px;
+    width: 381px;
+    height: 80px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .notification-rectangle20button {
+    top: 577px;
+    left: 24px;
+    width: 381px;
+    height: 80px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .notification-rectangle21button {
+    top: 705px;
+    left: 26px;
+    width: 381px;
+    height: 80px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .notification-rectangle22button {
+    top: 833px;
+    left: 24px;
+    width: 381px;
+    height: 80px;
+    position: absolute;
+    border-radius: 10px;
+  }
+  .notification-text06 {
+    top: 160px;
+    left: 26px;
+    color: rgba(0, 0, 0, 0.699999988079071);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: ExtraBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text08 {
+    top: 289px;
+    left: 26px;
+    color: rgba(0, 0, 0, 0.699999988079071);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: ExtraBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text10 {
+    top: 417px;
+    left: 26px;
+    color: rgba(0, 0, 0, 0.699999988079071);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: ExtraBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text12 {
+    top: 541px;
+    left: 26px;
+    color: rgba(0, 0, 0, 0.699999988079071);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: ExtraBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text14 {
+    top: 669px;
+    left: 26px;
+    color: rgba(0, 0, 0, 0.699999988079071);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: ExtraBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text16 {
+    top: 797px;
+    left: 35px;
+    color: rgba(0, 0, 0, 0.699999988079071);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: ExtraBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-light {
+    top: 213px;
+    left: 35px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .notification-light1 {
+    top: 597px;
+    left: 43px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .notification-light2 {
+    top: 853px;
+    left: 43px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .notification-text18 {
+    top: 593px;
+    left: 106px;
+    color: rgba(0, 0, 0, 0.8999999761581421);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text23 {
+    top: 353px;
+    left: 99px;
+    color: rgba(0, 0, 0, 0.8999999761581421);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text25 {
+    top: 465px;
+    left: 106px;
+    color: rgba(0, 0, 0, 0.8999999761581421);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text30 {
+    top: 718px;
+    left: 106px;
+    color: rgba(0, 0, 0, 0.8999999761581421);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-portable-speaker {
+    top: 345px;
+    left: 40px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .notification-fan-speed {
+    top: 468px;
+    left: 43px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .notification-fan-speed1 {
+    top: 722px;
+    left: 43px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .notification-frame1 {
+    top: 276px;
+    left: -4116px;
+    width: 15px;
+    height: 25px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .notification-text35 {
+    top: 863px;
+    left: 105px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-card1 {
+    top: 456px;
+    left: -143px;
+    width: 169px;
+    height: 201px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .notification-rectangle23 {
+    top: 3px;
+    left: 0px;
+    width: 169px;
+    height: 198px;
+    position: absolute;
+    border-radius: 24px;
+  }
+  .notification-text37 {
+    left: 27px;
+    color: rgba(247, 247, 247, 1);
+    height: auto;
+    opacity: 0.60;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Manrope;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text39 {
+    top: 88px;
+    left: 27px;
+    color: rgba(247, 247, 247, 1);
+    height: auto;
+    opacity: 0.60;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Manrope;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-text41 {
+    top: 30px;
+    left: 30px;
+    color: rgba(247, 247, 247, 1);
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Manrope;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .notification-rectangle25 {
+    top: 84px;
+    left: 106px;
+    width: 50px;
+    height: 26px;
+    position: absolute;
+    border-radius: 100px;
+  }
+  .notification-ellipse4 {
+    top: 87px;
+    left: 133px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .notification-line1 {
+    top: 64px;
+    left: 27px;
+    width: 129px;
+    height: 0px;
+    position: absolute;
+  }
+  

@@ -1,0 +1,261 @@
+.login-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .login-login {
+    width: 100%;
+    height: 844px;
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-size: cover;
+    background-image: url("/playground_assets/0d9e8ab5-0807-4abd-b27b-4961be05d4c0-o0s-1500w.undefined");
+  }
+  .login-text {
+    top: 335px;
+    left: 39px;
+    color: rgba(205, 34, 54, 1);
+    width: 385px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    font-style: italic;
+    text-align: left;
+    font-family: Lucida Fax;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text02 {
+    top: 272px;
+    left: 39px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    font-style: italic;
+    text-align: left;
+    font-family: Lucida Fax;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text04 {
+    top: 407px;
+    left: 45px;
+    color: rgba(0, 0, 0, 0.6000000238418579);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-rectangle8input {
+    top: 476px;
+    left: 47px;
+    width: 326px;
+    height: 71px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+  }
+  .login-text06 {
+    top: 498px;
+    left: 82px;
+    color: rgba(0, 0, 0, 0.3499999940395355);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: italic;
+    text-align: left;
+    font-family: Lucida Fax;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-rectangle17input {
+    top: 562px;
+    left: 45px;
+    width: 323px;
+    height: 68px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+  }
+  .login-lock-icon-fill {
+    gap: 10px;
+    top: 578px;
+    left: 328px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    padding: 2px 1px;
+    position: absolute;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .login-insidewrapper {
+    gap: 10px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .login-lock {
+    width: 17px;
+    height: 20px;
+  }
+  .login-text08 {
+    top: 579px;
+    left: 76px;
+    color: rgba(166, 166, 166, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: italic;
+    text-align: left;
+    font-family: Lucida Fax;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text10 {
+    top: 645px;
+    left: 82px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: italic;
+    text-align: left;
+    font-family: Lucida Fax;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-text12 {
+    top: 670px;
+    left: 111px;
+    color: rgba(205, 34, 55, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: italic;
+    text-align: left;
+    font-family: Lucida Fax;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-statusbar {
+    top: 0px;
+    left: 0px;
+    width: 390px;
+    height: 21px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .login-leftside {
+    top: 1px;
+    left: 0px;
+    width: 54px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .login-text14 {
+    color: var(--dl-color-general-black);
+    width: 54px;
+    height: auto;
+    position: absolute;
+    text-align: center;
+    line-height: 22px;
+  }
+  .login-rightside {
+    top: 5px;
+    left: 300.2664794921875px;
+    width: 89.73352813720703px;
+    height: 13px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .login-battery {
+    top: 0px;
+    left: 57.96650314331055px;
+    width: 31.76702880859375px;
+    height: 13px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .login-outline {
+    top: 0px;
+    left: 0px;
+    width: 29px;
+    height: 13px;
+    opacity: 0.35;
+    position: absolute;
+  }
+  .login-batteryend {
+    top: 5px;
+    left: 30.142581939697266px;
+    width: 2px;
+    height: 4px;
+    opacity: 0.40;
+    position: absolute;
+  }
+  .login-fill {
+    top: 2px;
+    left: 2.3186612129211426px;
+    width: 24px;
+    height: 9px;
+    position: absolute;
+  }
+  .login-wifi {
+    top: 1px;
+    left: 30.1425838470459px;
+    width: 20px;
+    height: 12px;
+    position: absolute;
+  }
+  .login-mobilesignal {
+    top: 1px;
+    left: 0px;
+    width: 21px;
+    height: 12px;
+    position: absolute;
+  }
+  

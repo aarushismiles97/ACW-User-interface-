@@ -1,0 +1,889 @@
+.energyusuage-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .energyusuage-energyusuage {
+    width: 100%;
+    height: 812px;
+    display: flex;
+    overflow: hidden;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-size: cover;
+    background-image: url("/playground_assets/8efb26ec-f2c2-431d-a7f1-4dfea8c75787-vgvb-1500w.undefined");
+  }
+  .energyusuage-text {
+    top: 41px;
+    left: 47px;
+    color: rgba(0, 0, 0, 1);
+    width: 313px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Extra Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text02 {
+    top: 135px;
+    left: 269px;
+    color: rgba(113, 132, 137, 1);
+    width: 176px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text04 {
+    top: 269px;
+    left: 378px;
+    color: rgba(255, 255, 255, 1);
+    width: 128px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text06 {
+    top: 287px;
+    left: 386px;
+    color: rgba(188, 188, 188, 1);
+    width: 88px;
+    height: auto;
+    position: absolute;
+    font-size: 11px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-rectangle10 {
+    top: 381px;
+    left: 0px;
+    width: 381px;
+    height: 436px;
+    position: absolute;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px 40px 0 0;
+  }
+  .energyusuage-rectangle11 {
+    top: 432px;
+    left: 116px;
+    width: 240px;
+    height: 35px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.019999999552965164);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 18px;
+  }
+  .energyusuage-text08 {
+    top: 430px;
+    left: 30px;
+    color: rgba(255, 255, 255, 1);
+    width: 103px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-vector1 {
+    top: 488px;
+    left: 0px;
+    width: 376px;
+    height: 73px;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  }
+  .energyusuage-text13 {
+    top: 592px;
+    left: 13px;
+    color: rgba(188, 168, 168, 0.6000000238418579);
+    width: 296px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text15 {
+    top: 592px;
+    left: 43px;
+    color: rgba(175, 156, 156, 1);
+    width: 262px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-rectangle12 {
+    top: 715.2238159179688px;
+    left: 82.1240005493164px;
+    width: 18px;
+    height: 9px;
+    opacity: 0.03;
+    position: absolute;
+  }
+  .energyusuage-text17 {
+    top: 592px;
+    left: 73px;
+    color: rgba(175, 156, 156, 1);
+    width: 16px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text19 {
+    top: 592px;
+    left: 111px;
+    color: rgba(175, 156, 156, 1);
+    width: 15px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text21 {
+    top: 592px;
+    left: 190px;
+    color: rgba(175, 156, 156, 1);
+    width: 17px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text23 {
+    top: 592px;
+    left: 148px;
+    color: rgba(175, 156, 156, 1);
+    width: 14px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text25 {
+    top: 592px;
+    left: 230px;
+    color: rgba(175, 156, 156, 1);
+    width: 13px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text27 {
+    top: 592px;
+    left: 274px;
+    color: rgba(175, 156, 156, 1);
+    width: 14px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text29 {
+    top: 592px;
+    left: 314px;
+    color: rgba(175, 156, 156, 1);
+    width: 16px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text31 {
+    top: 592px;
+    left: 350px;
+    color: rgba(175, 156, 156, 1);
+    width: 18px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-vector2 {
+    top: 535px;
+    left: 2px;
+    width: 373px;
+    height: 167px;
+    position: absolute;
+  }
+  .energyusuage-vector4 {
+    top: 533.5px;
+    left: 3px;
+    width: 370px;
+    height: 173px;
+    position: absolute;
+  }
+  .energyusuage-text36 {
+    top: 625px;
+    left: 14px;
+    color: rgba(255, 255, 255, 1);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text38 {
+    top: 632px;
+    left: 275px;
+    color: rgba(175, 156, 156, 1);
+    width: 75px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-rectangle13button {
+    top: 665px;
+    left: 14px;
+    width: 160px;
+    height: 50px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.5);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .energyusuage-rectangle14button {
+    top: 673px;
+    left: 206px;
+    width: 92px;
+    height: 34px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .energyusuage-rectangle15 {
+    top: 673px;
+    left: 206px;
+    width: 45px;
+    height: 34px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .energyusuage-text40 {
+    top: 679px;
+    left: 256px;
+    color: rgba(132, 125, 125, 1);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text42 {
+    top: 791px;
+    left: 38px;
+    color: rgba(0, 0, 0, 1);
+    width: 32px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text44 {
+    top: 766px;
+    left: 38px;
+    color: rgba(0, 0, 0, 1);
+    width: 32px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-ellipse8 {
+    top: 767px;
+    left: 253px;
+    width: 35px;
+    height: 31px;
+    position: absolute;
+  }
+  .energyusuage-ellipse9 {
+    top: 763.9462280273438px;
+    left: 312px;
+    width: 21px;
+    height: 34px;
+    position: absolute;
+  }
+  .energyusuage-ellipse10 {
+    top: 775px;
+    left: 171px;
+    width: 47px;
+    height: 23px;
+    position: absolute;
+  }
+  .energyusuage-ellipse11 {
+    top: 802px;
+    left: 44px;
+    width: 6px;
+    height: 4px;
+    position: absolute;
+  }
+  .energyusuage-rectangle16 {
+    top: 745px;
+    left: -15px;
+    width: 428px;
+    height: 69px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .energyusuage-rectangle6 {
+    top: 0px;
+    left: 0px;
+    width: 428px;
+    height: 69px;
+    position: absolute;
+    border-radius: 20px;
+  }
+  .energyusuage-account {
+    top: 29px;
+    left: 361px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .energyusuage-vectorbutton {
+    top: 18px;
+    left: 355px;
+    width: 28px;
+    height: 28px;
+    position: absolute;
+  }
+  .energyusuage-notificationsbutton {
+    top: 13px;
+    left: 276px;
+    width: 39px;
+    height: 39px;
+    position: absolute;
+  }
+  .energyusuage-homebutton {
+    top: 15px;
+    left: 43px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .energyusuage-appsbutton {
+    top: 16px;
+    left: 113px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .energyusuage-ellipse12button {
+    top: 714px;
+    left: 148px;
+    width: 65px;
+    height: 65px;
+    position: absolute;
+  }
+  .energyusuage-plus-math {
+    top: 725px;
+    left: 160px;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+  }
+  .energyusuage-devices {
+    top: 145px;
+    left: 8px;
+    width: 422px;
+    height: 190px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-group94 {
+    top: 0px;
+    left: 1px;
+    width: 421px;
+    height: 41px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-text46 {
+    left: 270px;
+    color: rgba(199, 199, 199, 1);
+    height: auto;
+    position: absolute;
+    font-size: 23px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text48 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 23px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-text50 {
+    left: 97px;
+    color: rgba(199, 199, 199, 1);
+    height: auto;
+    position: absolute;
+    font-size: 23px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-rectangle111 {
+    top: 33px;
+    left: 1px;
+    width: 32px;
+    height: 8px;
+    position: absolute;
+    border-radius: 34px;
+  }
+  .energyusuage-group17button {
+    top: 58px;
+    left: 135px;
+    width: 232px;
+    height: 132px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-group28 {
+    top: 0px;
+    left: 0px;
+    width: 97px;
+    height: 132px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-group18 {
+    top: 0px;
+    left: 0px;
+    width: 97px;
+    height: 132px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(107, 104, 104, 0.5099999904632568);
+  }
+  .energyusuage-group22 {
+    top: 24px;
+    left: 21px;
+    width: 62px;
+    height: 97.0001220703125px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-rectangle30 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    border-radius: 16px;
+  }
+  .energyusuage-group16 {
+    top: 11px;
+    left: 12px;
+    width: 30px;
+    height: 32px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-materialsymbolshumiditymid {
+    top: 0px;
+    left: 0px;
+    width: 30px;
+    height: 32px;
+    position: absolute;
+  }
+  .energyusuage-text52 {
+    top: 73.0001220703125px;
+    left: 11px;
+    color: rgba(255, 255, 255, 1);
+    width: 51px;
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-group29button {
+    top: 0px;
+    left: 135px;
+    width: 97px;
+    height: 132px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-group19 {
+    top: 0px;
+    left: 0px;
+    width: 97px;
+    height: 132px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(107, 104, 104, 0.5099999904632568);
+  }
+  .energyusuage-group23 {
+    top: 24px;
+    left: 20px;
+    width: 54px;
+    height: 99.0001220703125px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-rectangle31 {
+    top: 0px;
+    left: 0px;
+    width: 54px;
+    height: 54px;
+    position: absolute;
+    border-radius: 16px;
+  }
+  .energyusuage-cloud-moon {
+    top: 11px;
+    left: 11px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-vector {
+    top: 10px;
+    left: 4px;
+    width: 24px;
+    height: 17px;
+    position: absolute;
+  }
+  .energyusuage-vector1 {
+    top: 2.20001220703125px;
+    left: 1.199951171875px;
+    width: 16px;
+    height: 15px;
+    position: absolute;
+  }
+  .energyusuage-text54 {
+    top: 73.0001220703125px;
+    left: 7px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-group36button {
+    top: 58px;
+    left: 0px;
+    width: 102px;
+    height: 132px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(255, 234, 242, 0.8799999952316284);
+  }
+  .energyusuage-text56 {
+    top: 95px;
+    left: 28px;
+    color: rgba(36, 35, 35, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .energyusuage-group35 {
+    top: 24px;
+    left: 24px;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(36, 35, 35, 1);
+  }
+  .energyusuage-leaf {
+    top: 12px;
+    left: 13px;
+    width: 30.879037857055664px;
+    height: 30.879037857055664px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-vector2 {
+    top: 11.579654693603516px;
+    left: 4.8249335289001465px;
+    width: 14px;
+    height: 14px;
+    position: absolute;
+  }
+  .energyusuage-vector3 {
+    top: 4.75808572769165px;
+    left: 5.808353424072266px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .energyusuage-vectorbutton1 {
+    top: 41px;
+    left: 330px;
+    width: 25px;
+    height: 40px;
+    position: absolute;
+  }
+  .energyusuage-statusbar {
+    top: 0px;
+    left: 0px;
+    width: 390px;
+    height: 21px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .energyusuage-leftside {
+    top: 1px;
+    left: 0px;
+    width: 54px;
+    height: 20px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-text58 {
+    color: var(--dl-color-general-black);
+    width: 54px;
+    height: auto;
+    position: absolute;
+    text-align: center;
+    line-height: 22px;
+  }
+  .energyusuage-rightside {
+    top: 5px;
+    left: 300.2664794921875px;
+    width: 89.73352813720703px;
+    height: 13px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-battery {
+    top: 0px;
+    left: 57.96650314331055px;
+    width: 31.76702880859375px;
+    height: 13px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .energyusuage-outline {
+    top: 0px;
+    left: 0px;
+    width: 29px;
+    height: 13px;
+    opacity: 0.35;
+    position: absolute;
+  }
+  .energyusuage-fill {
+    top: 2px;
+    left: 2.3186612129211426px;
+    width: 24px;
+    height: 9px;
+    position: absolute;
+  }
+  .energyusuage-wifi {
+    top: 1px;
+    left: 30.1425838470459px;
+    width: 20px;
+    height: 12px;
+    position: absolute;
+  }
+  .energyusuage-mobilesignal {
+    top: 1px;
+    left: 0px;
+    width: 21px;
+    height: 12px;
+    position: absolute;
+  }
+  
