@@ -1,0 +1,119 @@
+.screenshot-2023-05-07-231302-1 {
+  position: absolute;
+  top: 115px;
+  left: 36px;
+  width: 271px;
+  height: 158px;
+  object-fit: cover;
+}
+.statistics {
+  position: absolute;
+  top: 26px;
+  left: 102px;
+  font-size: var(--font-size-5xl);
+}
+.rectangle-41-button,
+.rectangle-43-button {
+  position: absolute;
+  top: 342px;
+  left: 46px;
+  width: 279px;
+  height: 166px;
+  object-fit: cover;
+}
+.rectangle-43-button {
+  top: 578px;
+  left: 58px;
+  width: 267px;
+  height: 156px;
+}
+.frame-child {
+  position: absolute;
+  top: 307px;
+  left: 46px;
+  background-color: var(--color-lightseagreen);
+  width: 87px;
+  height: 19px;
+}
+.water {
+  position: absolute;
+  top: 309px;
+  left: 58px;
+  font-weight: 800;
+}
+.frame-item {
+  position: absolute;
+  top: 89px;
+  left: 46px;
+  background-color: var(--color-lightseagreen);
+  width: 107px;
+  height: 19px;
+}
+.electricity {
+  position: absolute;
+  top: 91px;
+  left: 59px;
+  font-weight: 800;
+}
+.frame-inner {
+  position: absolute;
+  top: 548px;
+  left: 61px;
+  background-color: var(--color-lightseagreen);
+  width: 155px;
+  height: 19px;
+}
+.waste-management {
+  position: absolute;
+  top: 550px;
+  left: 64px;
+  font-weight: 800;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 4.74%;
+  width: 6.33%;
+  top: 4.15%;
+  right: 5.46%;
+  bottom: 91.11%;
+  left: 88.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child1 {
+  position: absolute;
+  top: 776px;
+  left: 0;
+  width: 428px;
+  height: 69px;
+}
+.ellipse-12-button1,
+.plus-math-icon3 {
+  position: absolute;
+  top: 745px;
+  left: 162px;
+  width: 65px;
+  height: 65px;
+}
+.plus-math-icon3 {
+  top: 754px;
+  left: 173px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.screenshot-2023-05-07-231302-1-parent {
+  position: relative;
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  background-image: url(./public/frame-6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: right;
+  font-size: var(--font-size-xs);
+  color: var(--general-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,324 @@
+.rooms6 {
+  position: absolute;
+  top: 44px;
+  left: 127px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-lucida-fax);
+}
+.keyboard-arrow-left-button1 {
+  position: absolute;
+  top: 24px;
+  left: 314px;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.rectangle-1-button {
+  position: absolute;
+  top: 177px;
+  left: 15px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lavenderblush);
+  box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--general-black);
+  box-sizing: border-box;
+  width: 356px;
+  height: 93px;
+}
+.quick-mode-on,
+.room-and-devices-child {
+  position: absolute;
+  top: 196px;
+  left: 23px;
+  width: 71px;
+  height: 56px;
+}
+.quick-mode-on {
+  top: 199px;
+  left: 42px;
+  width: 37px;
+  height: 50px;
+  object-fit: cover;
+}
+.kwh,
+.power-consumption-today {
+  position: absolute;
+  font-family: var(--font-verdana);
+}
+.power-consumption-today {
+  top: 222px;
+  left: 105px;
+  font-size: var(--font-size-xl);
+}
+.kwh {
+  top: 191px;
+  left: 159px;
+  font-size: 25px;
+}
+.living-room-2 {
+  position: absolute;
+  top: 104px;
+  left: 9px;
+  font-size: var(--font-size-mini);
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.room-and-devices-item {
+  position: absolute;
+  top: 120px;
+  left: 15px;
+  width: 60px;
+  height: 4px;
+}
+.bedroom-button2,
+.dining-room-2,
+.kitchen-button2 {
+  position: absolute;
+  top: 104px;
+  left: 127px;
+  font-size: var(--font-size-mini);
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.bedroom-button2,
+.dining-room-2 {
+  left: 203px;
+}
+.dining-room-2 {
+  top: 101px;
+  left: 291px;
+}
+.rectangle-2-button,
+.rectangle-3-button,
+.rectangle-4-button,
+.rectangle-5-button3 {
+  position: absolute;
+  top: 348px;
+  left: 9px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lavenderblush);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 174px;
+  height: 200px;
+}
+.rectangle-3-button,
+.rectangle-4-button,
+.rectangle-5-button3 {
+  left: 201px;
+}
+.rectangle-4-button,
+.rectangle-5-button3 {
+  top: 558px;
+  left: 11px;
+}
+.rectangle-5-button3 {
+  left: 201px;
+}
+.air-conditioner-icon1 {
+  position: absolute;
+  top: 365px;
+  left: 27px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.ac,
+.mitsubishi {
+  position: absolute;
+  top: 419px;
+  left: 27px;
+}
+.mitsubishi {
+  top: 448px;
+  left: 26px;
+}
+.toggle-switch-button-child6 {
+  position: relative;
+  border-radius: var(--br-131xl);
+  background-color: var(--white);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  width: 29px;
+  height: 29px;
+}
+.toggle-switch-button8 {
+  position: absolute;
+  top: 491px;
+  left: 34px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightgreen-100);
+  width: 51px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-11xs) var(--padding-3xs)
+    var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+}
+.tv-icon {
+  position: absolute;
+  top: 365px;
+  left: 218px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.samsung-tv,
+.toggle-switch-button9 {
+  position: absolute;
+  top: 434px;
+  left: 232px;
+}
+.toggle-switch-button9 {
+  top: 491px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightgreen-100);
+  width: 51px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-11xs) var(--padding-3xs)
+    var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+}
+.fan-speed-icon2,
+.light-icon3 {
+  position: absolute;
+  top: 582px;
+  left: 20px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.fan-speed-icon2 {
+  top: 577px;
+  left: 219px;
+}
+.fan,
+.lighting {
+  position: absolute;
+  top: 654px;
+  left: 26px;
+}
+.fan {
+  left: 219px;
+}
+.toggle-switch-button10 {
+  position: absolute;
+  top: 694px;
+  left: 43px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightgreen-100);
+  width: 51px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-11xs) var(--padding-3xs)
+    var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+}
+.room-and-devices-inner {
+  position: absolute;
+  top: 781px;
+  left: 0;
+  width: 428px;
+  height: 69px;
+}
+.plus-math-icon4,
+.room-and-devices-child1 {
+  position: absolute;
+  top: 748px;
+  left: 162px;
+  width: 65px;
+  height: 65px;
+}
+.plus-math-icon4 {
+  top: 761px;
+  left: 175px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.toggle-switch-button-child9 {
+  position: relative;
+  border-radius: var(--br-131xl);
+  background-color: var(--white);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  width: 29px;
+  height: 29px;
+}
+.toggle-switch-button11 {
+  position: absolute;
+  top: 692px;
+  left: 222px;
+  border-radius: var(--br-11xl);
+  background-color: var(--toggle-toggle-off);
+  width: 51px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-3xs) var(--padding-3xs)
+    var(--padding-11xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div12,
+.left-side5 {
+  position: absolute;
+  left: 0;
+  width: 54px;
+  height: 20px;
+}
+.div12 {
+  top: 0;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+}
+.left-side5 {
+  top: 1px;
+}
+.right-side-icon5 {
+  position: absolute;
+  height: 61.9%;
+  width: 23.01%;
+  top: 23.81%;
+  right: 0;
+  bottom: 14.29%;
+  left: 76.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.status-bar4 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 21px;
+  text-align: center;
+  font-size: var(--default-bold-body-size);
+  font-family: var(--default-bold-body);
+}
+.room-and-devices {
+  position: relative;
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  background-image: url(./public/frame-6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--general-black);
+  font-family: var(--font-source-sans-pro);
+}
