@@ -1,0 +1,258 @@
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 673px;
+  height: 1481px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.charged-battery-icon {
+  position: absolute;
+  top: 20px;
+  left: 350px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.wi-fi-icon {
+  top: 20px;
+  left: 325px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.b,
+.signal-icon,
+.wi-fi-icon {
+  position: absolute;
+}
+.signal-icon {
+  top: 20px;
+  left: 300px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.b {
+  top: 23px;
+  left: 20px;
+  color: var(--general-black);
+}
+.vector-button {
+  position: absolute;
+  height: 4.74%;
+  width: 6.33%;
+  top: 7.11%;
+  right: 4.44%;
+  bottom: 88.15%;
+  left: 89.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.air-conditioner {
+  position: absolute;
+  top: 76px;
+  left: 108px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-lucida-fax);
+  color: var(--general-black);
+}
+.air-conditioner-icon {
+  position: absolute;
+  top: 159px;
+  left: 160px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.ac-tempature-child,
+.line-9-button {
+  position: absolute;
+  top: 599px;
+  left: 88px;
+  border-top: 10px solid var(--color-crimson);
+  box-sizing: border-box;
+  width: 257.4px;
+  height: 10px;
+}
+.ac-tempature-child {
+  top: 607px;
+  border-top: 17px solid var(--white);
+  width: 90.02px;
+  height: 0;
+}
+.subtract-icon {
+  position: relative;
+  width: 167.21px;
+  height: 162.35px;
+}
+.group-child,
+.vector-icon {
+  position: absolute;
+  top: 26.32px;
+  left: 115.99px;
+  width: 13.03px;
+  height: 12.37px;
+}
+.vector-icon {
+  height: 9.86%;
+  width: 7.56%;
+  top: 90.14%;
+  right: 0;
+  bottom: 0;
+  left: 92.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.span {
+  font-size: 35px;
+}
+.c1 {
+  font-size: 19px;
+}
+.c-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.c,
+.c-wrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.c {
+  display: flex;
+  align-items: center;
+}
+.c-wrapper {
+  right: 0;
+  bottom: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25) inset;
+}
+.group-wrapper {
+  position: absolute;
+  height: 32.02%;
+  width: 26.39%;
+  top: 28.87%;
+  right: 51.3%;
+  bottom: 39.11%;
+  left: 22.31%;
+}
+.group-50-button-inner,
+.subtract-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 215.97px;
+  height: 160.13px;
+}
+.group-50-button-inner {
+  top: 5.37px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.group-50-button,
+.group-50-button-child {
+  position: absolute;
+  top: -1.02px;
+  left: 102.08px;
+  width: 59.11px;
+  height: 65.28px;
+}
+.group-50-button {
+  top: 288px;
+  left: 129px;
+  width: 215.97px;
+  height: 165.51px;
+  font-size: 37px;
+  color: #bebebe;
+  font-family: var(--font-istok-web);
+}
+.rectangle-5-button,
+.rectangle-5-button1,
+.rectangle-5-button2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray-100);
+  width: 100px;
+  height: 123.05px;
+}
+.rectangle-5-button1,
+.rectangle-5-button2 {
+  left: 238px;
+}
+.rectangle-5-button2 {
+  left: 119px;
+}
+.medium {
+  position: absolute;
+  top: 52px;
+  left: 143px;
+}
+.rectangle-5-button-parent {
+  position: absolute;
+  top: 643px;
+  left: 24px;
+  width: 338px;
+  height: 123.05px;
+  font-size: var(--font-size-base);
+}
+.ac-tempature-item {
+  position: absolute;
+  top: 786px;
+  left: 0;
+  width: 428px;
+  height: 69px;
+}
+.ellipse-9-button,
+.plus-math-icon {
+  position: absolute;
+  top: 773px;
+  left: 160px;
+  width: 65px;
+  height: 65px;
+}
+.plus-math-icon {
+  top: 787px;
+  left: 173px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.high,
+.low {
+  position: absolute;
+  top: 695px;
+}
+.low {
+  left: 55px;
+  display: inline-block;
+  width: 69px;
+  height: 41px;
+}
+.high {
+  left: 292px;
+  font-size: var(--font-size-base);
+}
+.ac-tempature {
+  position: relative;
+  border-radius: var(--br-xl);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  background-image: url(./public/ac-tempature@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--white);
+  font-family: var(--font-inter);
+}
